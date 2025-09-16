@@ -38,6 +38,7 @@ const Row = ({title,fetchUrl,isLargeRow}) => {
   }
  
     const opts = {
+      // margin:auto,
       height:'390',
       width:"100%",
       playerVars:{
